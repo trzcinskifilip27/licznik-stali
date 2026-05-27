@@ -104,7 +104,7 @@ if uploaded_file is not None:
                     raw_count += 1
 
     # --- OBLICZENIE I WYŚWIETLENIE FINALNEGO WYNIKU ---
-    final_count = raw_count + dodaj_sztuk - odejmij_szerokosc = raw_count + dodaj_sztuk - odejmij_sztuk
+   final_count = raw_count + dodaj_sztuk - odejmij_sztuk
     if final_count < 0:
         final_count = 0
 
